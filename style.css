@@ -1,0 +1,41 @@
+body{
+    background-color: aquamarine;
+}
+
+
+
+.main-body{
+    
+        font-family: 'Special Elite', cursive;
+        border-color: black;
+    
+}
+
+.header_div{
+    background-color: rgb(55, 229, 206);
+    color: black;
+
+
+}
+
+.header_div p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:100;
+letter-spacing: 2px;
+font-size: 25%;
+}
+
+
+
+
+.copy_right_footer{
+    padding-top: 10px;
+    position: fixed;
+    bottom: 0;
+    border-color: black;
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+    text-shadow: 5px;
+    
+}
